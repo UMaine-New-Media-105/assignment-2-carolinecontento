@@ -12,3 +12,12 @@ shape was started
 and translated it downward and then toward the middle with no stroke
 mutliple vertex's were created to create the heart shape
 ended shape
+question 3
+https://editor.p5js.org/carolinecontento/sketches/_ilaDBfpA
+created a function
+function called heartA
+translate, scale and noStroke were coded
+begin shape began
+the shape is filled red
+end shape and push and pop were applied
+the function was called in draw on lines 7 through 12 and created three different shapes at three different sizes
