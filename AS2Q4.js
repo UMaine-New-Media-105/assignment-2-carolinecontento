@@ -87,18 +87,17 @@ function draw() {
   translate(45, 135);
   //first point
   triangle(0, 25, 10, 0, -10, 0);
+  rotate(72);
   //second little point
-  rotate(72);
-  triangle(0, 25, 10, 0, -10, 0);
-  //third point little
   triangle(0, 25, 10, 0, -10, 0);
   rotate(72);
-  //fourth
+  //third little point
+  triangle(0, 25, 10, 0, -10, 0);
+  rotate(72);
+  //fourth little point
   triangle(0, 25, 10, 0, -10, 0);
   rotate(72);
   //fifth point
-  triangle(0, 25, 10, 0, -10, 0);
-  rotate(72);
   triangle(0, 25, 10, 0, -10, 0);
   rotate(72);
 
